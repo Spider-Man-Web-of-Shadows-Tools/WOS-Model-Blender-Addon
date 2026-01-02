@@ -8,7 +8,7 @@ This addon is designed on Blender 4.5.0
 
 The model importer allows multi-file import, through Blender File View, or drag-and-drop. It creates a new mesh collection for each model.
 
-The importer can import the following attributes:
+The importer can import the following:
 - Positions (Basic)
 - Indices (Basic, Triangle Strips converted to Triangle List for Blender to consume)
 - Normals
@@ -21,7 +21,7 @@ The importer can import the following attributes:
 
 The exporter allows exporting multiple collection at the same time, each to their own file, it calculates the filename hash (hash of the model name) and prepends it to the final filename.
 
-The exporter can export the following attributes:
+The exporter can export the following:
 - Positions
 - Indices (Triangle List converted to Triangle Strips for the game to consume)
 - Normals
