@@ -19,7 +19,7 @@ The importer can import the following:
 - Blend Indices
 - Blend Weights
 
-The exporter allows exporting multiple collection at the same time, each to their own file, it calculates the filename hash (hash of the model name) and prepends it to the final filename.
+The exporter allows exporting multiple collections at the same time, each to their own file, it calculates the filename hash (hash of the model name) and prepends it to the final filename.
 
 The exporter can export the following:
 - Positions
