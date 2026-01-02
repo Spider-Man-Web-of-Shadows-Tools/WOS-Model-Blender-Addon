@@ -14,7 +14,7 @@ The importer can import the following:
 - Normals
 - Tangents (Recalculated automatically by Blender)
 - Binormals (Recalculated automatically by Blender)
-- UVs (Flips the V to match Blender's bottom-to-top)
+- UVs (Flips the V to match Blender's bottom-to-top visually)
 - Colors
 - Blend Indices
 - Blend Weights
@@ -27,7 +27,7 @@ The exporter can export the following:
 - Normals
 - Tangents
 - Binormals
-- UVs (Flips the V to match the game's top-to-bottom)
+- UVs (Flips the V to match the game's top-to-bottom internally)
 - Colors
 - Blend Indices
 - Blend Weights
