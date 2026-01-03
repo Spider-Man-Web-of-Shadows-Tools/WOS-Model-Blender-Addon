@@ -37,5 +37,7 @@ The addon imports and exports a `.standalone_mesh` file ready to use with the [F
 
 To generate a `.standalone_mesh` file, first you need a `.PCPACK` file, then read the `README` [here](https://github.com/haruse23/Spider-Man-Web-of-Shadows)
 
+Make sure your meshes are triangulated before exporting
+
 Very recommended to watch [this](https://youtu.be/1gJKBUnrWhw) if you ever decide to merge vertices 
 
